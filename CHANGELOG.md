@@ -1,3 +1,18 @@
+## 1.2.0 — 27/11/2026
+
+### Chat vocal
+
+- Voix en 3D : ton pote s'entend fort quand il est pres de toi, faible quand il est loin,
+  et plus du tout s'il est a l'autre bout de la maison.
+- Micro -> reseau -> haut-parleur, sans passer par un serveur vocal externe (PCM 8 kHz mono).
+- Mobile : onglet Salon -> « VOIX : ACTIVE ». PC : touche **F8**.
+- Un indicateur en dB s'affiche dans le menu pour voir si le micro capte.
+
+### Les parents entendent les cris
+
+- Si tu cries fort dans ta chambre (niveau micro eleve), le parent le plus proche vient voir.
+- Il marche vraiment jusqu'a toi (son IA de decision est gelee 12 s), puis il reprend sa vie
+  et retourne a ce qu'il faisait.
 ## 1.1.8 — 27/11/2026
 
 - **Filet anti-crash** : une erreur interne du mod est notee dans le log au lieu de fermer le jeu.
