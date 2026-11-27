@@ -1,3 +1,10 @@
+## 1.2.1 — 27/11/2026
+
+- **Barre de niveau micro flottante** au milieu a gauche de l'ecran (40 % de large) : on voit
+  en direct si le micro capte (barre + dB). Un appui sur la barre active/coupe le vocal.
+- Le vocal est **actif par defaut** et le choix est memorise.
+- La detection des cris marche aussi **hors ligne** (sans salon), pour tester seul.
+- Seuil de cri ajuste : un vrai cri declenche, une voix normale non.
 ## 1.2.0 — 27/11/2026
 
 ### Chat vocal
