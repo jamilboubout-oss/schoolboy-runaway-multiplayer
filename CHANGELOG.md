@@ -1,3 +1,22 @@
+## 1.1.6 — 27/11/2026
+
+- **Parents bugges** (immobiles, sans animation, marchant dans le vide) : le miroir des PNJ
+  entre les deux joueurs est desactive. Chaque appareil fait tourner ses vrais parents, avec
+  leur vraie IA et leurs vraies animations. C'est la cause principale des bugs du papa et de la
+  maman.
+- **Tu joues la maman / le papa** : l'autre parent arrete de te courir apres pendant le RP.
+## 1.1.5 — 27/11/2026
+
+- **« Tu as attrape l'autre joueur » a l'envers** : le mod ne devine plus a distance qui le papa
+  attrape. Chaque joueur signale lui-meme son arrestation, donc plus de message inverse.
+- **Maman / papa joues par un joueur** : toutes les copies du parent sont masquees, y compris
+  celles que le jeu reactive pour les quetes.
+## 1.1.4 — 27/11/2026
+
+- **Objet fantome** (lampe torche dans la piece alors que le tiroir est vide) : la synchro ne
+  deplace plus un objet qui est encore a sa place d'origine dans son tiroir.
+- **Micro-lags sur telephone** : la recherche des objets de la scene etait faite plusieurs fois
+  par seconde, elle est maintenant gardee en cache.
 ## 1.1.3 — 27/11/2026
 
 - **Objets en double** (4 marteaux, 3 ampoules dans la meme piece) : la synchro ne rallume
