@@ -1,3 +1,10 @@
+## 1.2.2 — 27/11/2026
+
+- **La barre de niveau micro existe aussi sur PC** (elle n'existait que sur mobile),
+  meme taille et meme place : milieu gauche, 40 % de largeur, clic pour activer/couper.
+- Le vocal PC est actif par defaut et le reglage est memorise.
+- La detection des cris marche aussi hors ligne sur PC.
+- La barre s'efface quand le menu est ouvert pour ne pas bloquer les boutons.
 ## 1.2.1 — 27/11/2026
 
 - **Barre de niveau micro flottante** au milieu a gauche de l'ecran (40 % de large) : on voit
