@@ -1,3 +1,8 @@
+## 1.1.7 — 27/11/2026
+
+- **Teleportation** : dans l'onglet Salon, l'hote a « TELEPORTER L'AUTRE JOUEUR ICI » et
+  l'invite a « ALLER CHEZ L'AUTRE JOUEUR (TP) ». Pratique quand quelqu'un se perd dans la
+  maison ou reste bloque.
 ## 1.1.6 — 27/11/2026
 
 - **Parents bugges** (immobiles, sans animation, marchant dans le vide) : le miroir des PNJ
