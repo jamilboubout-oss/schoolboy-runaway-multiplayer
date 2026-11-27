@@ -3,7 +3,7 @@
 Mod multijoueur pour **SchoolBoy Runaway** : deux joueurs dans la meme maison, en ligne
 (code a 4 chiffres via un relais Cloudflare) ou en Wi-Fi local, sur **PC** (BepInEx) et **Android** (MelonLoader).
 
-Version **1.1.2**.
+Version **1.1.3**.
 
 ![Menu PC](docs/screenshots/pc-menu.png)
 

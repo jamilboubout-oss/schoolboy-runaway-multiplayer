@@ -1,3 +1,18 @@
+## 1.1.3 — 27/11/2026
+
+- **Objets en double** (4 marteaux, 3 ampoules dans la meme piece) : la synchro ne rallume
+  plus les copies reservees aux quetes, ni ne rapproche un objet du meme type.
+- **Tout se refermait** quand l'autre joueur reapparaissait, mourait ou revenait : apres une
+  arrestation on remet l'etat connu des meubles au lieu d'annoncer le reset du jeu, et l'invite
+  n'impose plus sa disposition complete.
+- **Compteur LUI x/3** : le nombre d'arrestations voyage avec l'etat du joueur, il ne peut plus
+  rester bloque a 0.
+- **« Tu as attrape l'autre joueur » a tort** : il faut que le papa soit vraiment sur l'invite
+  et nettement plus loin de toi.
+- **Clics a travers le menu** : un voile invisible au-dessus du jeu avale les clics tant que le
+  menu est ouvert.
+- **Skin maman / papa (RP)** : le vrai parent disparait et ne peut plus t'arreter tant qu'un
+  joueur porte ce skin.
 ## 1.1.2 — 27/11/2026
 
 - **Connexion au salon qui bouclait sur « essai 1, 2, 3... »** : sur certains telephones, le
