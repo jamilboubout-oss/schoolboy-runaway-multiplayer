@@ -1,3 +1,8 @@
+## 1.1.8 — 27/11/2026
+
+- **Filet anti-crash** : une erreur interne du mod est notee dans le log au lieu de fermer le jeu.
+- **Alerte de version** : si les deux joueurs n'ont pas la meme version, un message le dit
+  clairement au lieu de laisser des bugs incomprehensibles.
 ## 1.1.7 — 27/11/2026
 
 - **Teleportation** : dans l'onglet Salon, l'hote a « TELEPORTER L'AUTRE JOUEUR ICI » et
