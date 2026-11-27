@@ -1,3 +1,11 @@
+## 1.1.2 — 27/11/2026
+
+- **Connexion au salon qui bouclait sur « essai 1, 2, 3... »** : sur certains telephones, le
+  magasin de certificats ne reconnait pas la chaine presentee par Cloudflare ; le mod la refusait
+  et retentait sans fin. Il accepte maintenant la chaine publique (le nom d'hote reste verifie)
+  quand la racine epinglee est absente.
+- Le statut du salon affiche l'erreur exacte du relais : on voit enfin si c'est le reseau,
+  les certificats ou le code du salon.
 # Journal des versions
 
 ## 1.1.1 — 27/11/2026
