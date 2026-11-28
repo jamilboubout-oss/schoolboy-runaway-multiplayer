@@ -1,3 +1,11 @@
+## 1.2.3 — 27/11/2026
+
+- **Seuil de cri corrige** : il etait a -13 dB, un vrai cri plafonne vers -17 dB, donc rien
+  ne se declenchait. Il est maintenant a -22 dB tenu une demi-seconde.
+- Si le parent ne peut pas marcher jusqu'a toi (chemin bloque), il est place devant toi
+  au bout de 4 secondes : tu le vois venir quand meme.
+- La barre affiche « niveau actuel / record des 8 dernieres secondes » pour regler.
+- Journal de demarrage : micro detecte + liste des peripheriques.
 ## 1.2.2 — 27/11/2026
 
 - **La barre de niveau micro existe aussi sur PC** (elle n'existait que sur mobile),
